@@ -1,4 +1,4 @@
-# JS25 Hashing System
+# JS25 Hashing System (Not Finished Yet)
 
 ---
 
